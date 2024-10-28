@@ -5,3 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 neilmehta87/lammps_deepmd:23.08
+eepmodeling/deepmd-kit:2.2.4_cpu
+mg141/dpgen
