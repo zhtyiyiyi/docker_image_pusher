@@ -1,1 +1,1 @@
-mg141/dpgen:0.1
+espenfl/aiidalab-vasp:latest
