@@ -1,1 +1,1 @@
-espenfl/aiidalab-vasp:latest
+shazj/vasp_dpgen:v1
