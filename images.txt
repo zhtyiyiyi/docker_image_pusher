@@ -1,1 +1,1 @@
-mcubewustl/vasp_2022:latest
+mcubewustl/vasp-z:latest
