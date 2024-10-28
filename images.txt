@@ -1,2 +1,1 @@
-deepmodeling/deepmd-kit:2.2.4_cpu
-mg141/dpgen
+mg141/dpgen:0.1
