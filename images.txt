@@ -1,1 +1,1 @@
-mcubewustl/vasp-z:latest
+ubuntu
