@@ -1,1 +1,1 @@
-centos/systemd:latest
+centos:centos7
